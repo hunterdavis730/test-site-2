@@ -12,3 +12,8 @@ body {}
     text-align: center;
     top: 5%;
 }
+
+#contact-bg-image {
+    background-image: url(Images/luka-vovk-1309002-unsplash.jpg);
+    background-size: cover;
+}
